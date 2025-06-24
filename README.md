@@ -6,7 +6,7 @@ I have simplified WiLoR, focusing on the inference process. Now it can be instal
 
 ### How to use?
 Note: make sure you are using Python3.10
-* install: `pip install git+https://github.com/warmshao/WiLoR-mini`
+* install: `pip install git+https://github.com/majk3l/WiLoR-mini`
 * Usage:
 ```python
 import torch
